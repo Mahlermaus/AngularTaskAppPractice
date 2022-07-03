@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "tasks": [
+    {
+      "text": "aprobar progra 2",
+      "day": "apenas se pueda",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "aprobar 3er cuatri TUP",
+      "day": "YA",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Encontrar trabajo de programador",
+      "day": "coming soon",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "after subject",
+      "day": "now",
+      "reminder": true,
+      "id": 8
+    }
+  ]
+}
